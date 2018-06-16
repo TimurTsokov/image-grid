@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+}
+
+html, body {
+  min-height: 100%;
+}
+
+.ba-container {
+  width: 1200px;
+  color: #636B69;
+}
+.ba-container h2{
+  margin: 0 0 10px 20px;
+}
+.ba-grid{
+  margin-left: 0;
+}
+.ba-width--mt{
+  margin-top: 20px;
+}
